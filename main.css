@@ -15,5 +15,14 @@ p {
   font-size: 14px;
   font-family: Arial
 }
+.site-header {
+  background-color: darkcyan;   /* we’ll switch to blue later */
+  padding: 8px 16px;
+  text-align: right;
+}
+.site-header .logo {
+  height: 36px;
+}
+
 
 
