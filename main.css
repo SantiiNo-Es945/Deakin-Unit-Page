@@ -16,7 +16,7 @@ p {
   font-family: Arial
 }
 .site-header {
-  background-color: darkcyan;   /* we’ll switch to blue later */
+  background-color: blue;   /* we’ll switch to blue later */
   padding: 8px 16px;
   text-align: right;
 }
